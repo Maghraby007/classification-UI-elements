@@ -6,6 +6,7 @@ I recommend applying data augmentation to expand the datase
 
 
 ## the model was trained on (button, tables, dropdown, image, marked_checkbox)
-## if you want to use the model only those five elements are the elements its trained on you can see there design from the dataset
+### if you want to use the model only those five elements are the elements its trained on you can see there design from the dataset
+The model is on googl drive https://drive.google.com/file/d/1fnhAs2B0Xr_i0m48c9hZZhFZRB5njEN4/view?usp=sharing
 
 
