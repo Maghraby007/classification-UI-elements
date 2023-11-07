@@ -1,5 +1,5 @@
 # classification-UI-elements
-classification of UI elements and according to the prediction write html code 
+classification of UI elements and according to the prediction write html code a very simple version of now days blackbox to change from image to code
 ## The data set used is UIsketch data from kaggle:
 https://www.kaggle.com/datasets/vinothpandian/uisketch/data
 I recommend applying data augmentation to expand the datase
